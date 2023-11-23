@@ -1,0 +1,81 @@
+@media screen and (max-width: 930px) and (min-width: 575px) {
+    .Container {
+        width: 95%;
+        margin: auto;
+      }
+      .Home_txt h2 {
+        font-family: "Amatic SC", sans-serif;
+        font-size: 40px;
+      }
+      .Home_txt p {
+        font-size: 14px;
+      }
+      .btn_red {
+        padding: 10px 20px;
+        float: left;
+      }
+      .btn_video {
+        padding: 0px 13px;
+        font-size: 14px;
+        font-weight: 400;
+        border: none;
+      }
+      .Home_Img {
+        width:50%;
+        margin: auto;
+      }
+      .Home_txt {
+        width: 50%;
+        text-align: center;
+      }
+      .btn_red {
+        padding: 10px 20px;
+        float: left;
+      }
+      .btn_video {
+        padding: 0px 13px;
+        font-size: 14px;
+        font-weight: 400;
+        border: none;
+      }
+      .Contact_item {
+        width: 100%;
+      }
+}
+@media screen and (max-width: 575px) {
+    .Container {
+        width: 97%;
+        margin: auto;
+      }
+      .Home_txt h2 {
+        font-family: "Amatic SC", sans-serif;
+        font-size: 50px;
+      }
+      .Home_txt p {
+        font-size: 16px;
+    
+      }
+      .Home_Img {
+        width:100%;
+        margin: auto;
+      }
+      .Home_txt {
+        width: 100%;
+        text-align: center;
+      }
+      .btn_red {
+        padding: 10px 20px;
+        float: left;
+      }
+      .btn_video {
+        padding: 0px 13px;
+        font-size: 14px;
+        font-weight: 400;
+        border: none;
+      }
+      
+      .Contact_item {
+        width: 100%;
+        
+      }
+    }
